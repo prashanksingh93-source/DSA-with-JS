@@ -1,4 +1,4 @@
-//find greatest number
+//Find the Largest Element in an Array Using a for Loop
 let arr=[2,4,2,5,7,9,4,5];
 let max=arr[0];
 for(let i=1;i<arr.length;i++){
@@ -9,7 +9,7 @@ for(let i=1;i<arr.length;i++){
 console.log(max);
 
 
-//find smallest number
+//Find the Smallest Element in an Array Using a for Loop
 let min=arr[0]
 for(let i=1;i<arr.length;i++){
     if(arr[i]<min){
