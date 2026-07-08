@@ -1,3 +1,4 @@
+//Check Whether a Number is a Palindrome Using a for Loop
 let num=12321;
 let orginal=num;
 let rev=0;
