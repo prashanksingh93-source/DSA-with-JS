@@ -2,7 +2,6 @@ function Snumber(num){
     if(num=='0'){
         return '0'
     }
-     
      Snumber(num-1)
      console.log(num);
      }
