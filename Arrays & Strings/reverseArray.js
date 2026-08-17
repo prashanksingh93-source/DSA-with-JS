@@ -23,4 +23,4 @@ function reverseArray(arr) {
     return arr;
 }
  
-console.log(reverseArray(arr))
+console.log(reverseArray(arr));
