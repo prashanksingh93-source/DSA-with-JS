@@ -24,4 +24,5 @@ function reverseArray(arr) {
 }
  
 
+
 console.log(reverseArray(arr))
