@@ -8,7 +8,8 @@ for(let i=0;num>0;i++){
    num=Math.floor(num/10)
 
    }
- console.log(rev)
- console.log(orginal);
- console.log(rev==orginal)
+ 
+  console.log(rev)
+  console.log(orginal);
+  console.log(rev==orginal)
  
