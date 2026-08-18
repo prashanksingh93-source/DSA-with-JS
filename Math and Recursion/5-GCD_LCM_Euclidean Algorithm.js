@@ -18,4 +18,5 @@ console.log('GCD : ', x);
 //LCM (Least Common Multiple)
 let gcd=x;
 let L=(a*b)/gcd;
- console.log("LCM : ", L)
+
+console.log("LCM : ", L)
