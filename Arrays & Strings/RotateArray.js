@@ -13,7 +13,13 @@ let k=2;
  k=k%arr.length //for repeatation
 
  //arr rotate left 
+//  reverse(arr,0,k-1);
+//  reverse(arr,k,arr.length-1);
+//  reverse(arr,0,arr.length-1);
+//  console.log('left rotation',arr);
+
+ //arr rotate right
+ reverse(arr,0,arr.length-1);
  reverse(arr,0,k-1);
  reverse(arr,k,arr.length-1);
- reverse(arr,0,arr.length-1);
- console.log(arr);
+ console.log('right rotation',arr)
