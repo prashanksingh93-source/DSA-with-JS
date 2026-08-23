@@ -16,4 +16,5 @@ function anagram(s,t){
     return true;
 }
 
+
 console.log(anagram('annu','nuna'));
