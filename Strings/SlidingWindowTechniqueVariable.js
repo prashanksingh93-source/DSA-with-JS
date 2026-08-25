@@ -8,7 +8,7 @@ function maxUn(Al){
             j++;
         }
         feq.add(Al[i])
-      let max=Math.max(max,i-j+1);
+      max=Math.max(max,i-j+1);
     }
     return max;
 }
