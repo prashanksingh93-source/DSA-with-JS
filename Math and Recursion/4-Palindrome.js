@@ -9,7 +9,7 @@ for(let i=0;num>0;i++){
 
    }
  
-  console.log(rev)
-  console.log(orginal);
-  console.log(rev==orginal)
+  console.log('reverse:',rev)
+  console.log('Orginal:',orginal);
+  console.log('Palindome:',rev==orginal)
  

@@ -1,4 +1,4 @@
-//Count the Number of Digits in a Number Using a for Loop
+//Count the Number of Digits in a Number Using a while Loop
 let num=1413435;
 let count=0
 while(num>0){
