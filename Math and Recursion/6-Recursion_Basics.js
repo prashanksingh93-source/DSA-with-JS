@@ -5,7 +5,7 @@ function Snumber(num){
      Snumber(num-1)
      console.log(num);
      }
-     Snumber(10)
+     //Snumber(10)
 
 
 
