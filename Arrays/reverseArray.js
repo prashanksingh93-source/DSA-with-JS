@@ -1,4 +1,4 @@
-// 🟢 Reverse an Array
+//  Reverse an Array
 // Problem Statement
 
 // Given an array of integers, reverse the array in-place and return the reversed array.
